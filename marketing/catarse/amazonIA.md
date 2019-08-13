@@ -7,3 +7,6 @@ O povo monitorando a Amazonia
 Como existe atualmente uma nítida ideologia instaurada nos ministérios brasileiros (vide a demissão do diretor Ricardo Galvão do INPE), queremos tomar as rédeas da situação. Acreditamos no poder das pessoas. Acreditamos no poder da tecnologia. Acreditamos no poder do Open Source. Queremos juntar pessoas, desenvolvedores, ambientalistas, para construir uma ferramenta para monitorar a Amazonia. Totalmente OpenSource. Crowd-founded. Livre. Transparente.
 
 
+## Sources
+1. https://pt.wikipedia.org/wiki/Desmatamento_da_Floresta_Amaz%C3%B4nica
+
